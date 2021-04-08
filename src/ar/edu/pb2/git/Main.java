@@ -8,7 +8,6 @@ public class Main {
 		 
 		 System.out.println("Hola turros");
 		 
-		 int i=0;
 	}
 
 }
